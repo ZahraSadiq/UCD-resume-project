@@ -1,4 +1,4 @@
-This README file contains the steps taken to create a website. 
+This README file is not a formal README file, it has been created solely for the purpose of note-taking when creating a website (only for personal use). 
 1.	New Repo:	
 	⁃	Use the CI template to create a new workspace / repo 
 2.	Gitpod: setting up new workspace:
