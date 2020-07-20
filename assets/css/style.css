@@ -22,20 +22,28 @@
     background-color: #fff;
 }
 
-.ui-color-menu-home {
+.ui-menu-color-home {
     background-color: #e67e22;
 }
 
-.ui-color-menu-resume {
+.ui-menu-color-resume {
     background-color: #9b59b6;
 }
 
-.ui-color-menu-contact {
+.ui-menu-color-contact {
     background-color: #3498db;
 }
 
-.ui-color-menu-download {
+.ui-menu-color-download {
     background-color: #525252;
+}
+
+.ui-menu-color-interests {
+    background-color: #a83232;
+}
+
+.ui-menu-color-github {
+    background-color: #293e91;
 }
 
 /*-------------------------------------Special paddings/ margins/ text */
@@ -367,3 +375,7 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 50%;
 }
+
+/*-------------------------------------Google Map */
+
+div#map {min-height: 360px;}
